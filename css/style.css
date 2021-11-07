@@ -21,6 +21,12 @@ header {
 .mb {
   margin-bottom: 2rem;
 }
+.upper {
+  text-transform: uppercase;
+}
+.secaob p {
+  margin: 0;
+}
 
 a {
   text-transform: uppercase;

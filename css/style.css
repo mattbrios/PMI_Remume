@@ -126,3 +126,24 @@ footer {
   padding: 4rem 0;
   width: 100%;
 }
+
+#toup {
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+  background-color: #0d6efd;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0;
+}
+
+#toup img {
+  color: #FFF;
+  width: 24px;
+  height: 24px;
+}

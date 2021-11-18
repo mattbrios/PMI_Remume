@@ -9,7 +9,6 @@ $(function () {
 
   $(document).scroll( function () {
     let y = $(this).scrollTop();
-    console.log(y)
     if ( y > 2200 ) {
       $('#toup').fadeIn();
     }
